@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./oratoresatticia03unkngoog/oratoresatticia03unkngoog_0337.png"; bbox 0 0 3825 5842; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 1148 1842 2472 2153">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 1148 1842 2472 2153">
+     <span class='ocr_line' id='line_1_1' title="bbox 1148 1842 2472 2153; baseline -0.002 -73"><span class='ocrx_word' id='word_1_1' title='bbox 1148 1842 2472 2153; x_wconf 73' lang='grc' dir='ltr'>ΙΣΟΚΡΑΤΗΣ</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 1698 2235 1990 2259">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 1698 2235 1990 2259">
+     <span class='ocr_line' id='line_1_2' title="bbox 1698 2235 1990 2259; baseline -0.007 -6"><span class='ocrx_word' id='word_1_2' title='bbox 1698 2235 1990 2259; x_wconf 56' lang='lat'>*—</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 735 2474 2954 2915">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 735 2474 2954 2915">
+     <span class='ocr_line' id='line_1_3' title="bbox 735 2474 2954 2731; baseline 0 -86"><span class='ocrx_word' id='word_1_3' title='bbox 735 2486 1717 2731; x_wconf 82' lang='lat' dir='ltr'>ISOGRATIS</span> <span class='ocrx_word' id='word_1_4' title='bbox 1832 2474 2954 2648; x_wconf 81' lang='lat' dir='ltr'><strong>ORATIONES-</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_4' title="bbox 1298 2777 2427 2915; baseline 0.002 -24"><span class='ocrx_word' id='word_1_5' title='bbox 1298 2777 1482 2891; x_wconf 94' lang='lat' dir='ltr'>ET</span> <span class='ocrx_word' id='word_1_6' title='bbox 1575 2777 2340 2893; x_wconf 88' lang='lat' dir='ltr'><strong>EPISTOLAE</strong></span> <span class='ocrx_word' id='word_1_7' title='bbox 2419 2906 2427 2915; x_wconf 46' lang='lat'><em>‚</em></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
